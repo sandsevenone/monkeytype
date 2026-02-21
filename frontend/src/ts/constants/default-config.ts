@@ -1,9 +1,9 @@
 import { Config, CustomThemeColors } from "@monkeytype/schemas/configs";
 
 const obj: Config = {
-  theme: "serika_dark",
-  themeLight: "serika",
-  themeDark: "serika_dark",
+  theme: "prophecies",
+  themeLight: "prophecies",
+  themeDark: "prophecies",
   autoSwitchTheme: false,
   customTheme: false,
   customThemeColors: [
@@ -59,11 +59,11 @@ const obj: Config = {
   keymapLayout: "overrideSync",
   keymapShowTopRow: "layout",
   keymapSize: 1,
-  fontFamily: "Roboto_Mono",
+  fontFamily: "IBM_Plex_Sans",
   smoothLineScroll: false,
   alwaysShowDecimalPlaces: false,
   alwaysShowWordsHistory: false,
-  singleListCommandLine: "on",
+  singleListCommandLine: "off",
   capsLockWarning: true,
   playSoundOnError: "off",
   playSoundOnClick: "off",
